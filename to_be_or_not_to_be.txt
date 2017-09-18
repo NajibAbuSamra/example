@@ -1,0 +1,5 @@
+
+- edit files
+- stage files
+- commit
+- push
